@@ -1,0 +1,5 @@
+Student Management system
+
+student name :sinchana 
+usn: 4GW25CS100
+Department : CSE
